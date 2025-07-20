@@ -7,7 +7,7 @@
 
 🔍数据自主：已整合1GB的海洋渔业论文、期刊、数据库等。
 
-🧠模型训练：基于Qwen-2.5的指令微调+强化学习（DPO）。仓库中给出专业模型的部分训练结果，也可使用自己的模型。经过评测，对比市面上的通用大模型存在信息检索等方面的优势。
+🧠模型训练：基于Qwen-2.5的监督微调+强化学习（DPO）。仓库中给出专业模型的部分训练结果，也可使用其它模型。经过评测，对比市面上的通用大模型存在信息检索等方面的优势。
 
 🎤功能扩展：添加了水质监控和语音输入的功能。
 
@@ -23,7 +23,7 @@ Due to limitations in file size and confidentiality requirements, the complete d
 
 🔍 Data autonomy: 1GB of marine fishery papers, journals, databases, etc. 
 
-🧠 Model training: Instruction fine-tuning and reinforcement learning (DPO) based on Qwen-2.5. Partial training results of professional models are provided in the warehouse, and one can also use their own model. After evaluation, it was found that there are advantages in information retrieval compared to general large models on the market.
+🧠 Model training: Supervised fine-tuning and reinforcement learning (DPO) based on Qwen-2.5. Partial training results of professional models are provided in the warehouse, and other models can also be used. After evaluation, it was found that there are advantages in information retrieval compared to general large models on the market.
 
 🎤 Function extension: Added water quality monitoring and voice input functions.
 
