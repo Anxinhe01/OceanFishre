@@ -27,6 +27,6 @@ Model training: Instruction fine-tuning and reinforcement learning (DPO) based o
 
 Function extension: Added water quality monitoring and voice input functions.
 
-#License
+# License
 
 Using MIT License
